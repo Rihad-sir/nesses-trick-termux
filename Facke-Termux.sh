@@ -10,5 +10,6 @@ clear
 
 figlet NESSES tm
 echo we are anonymous we are legends
+sleep5
 
-hollywood
+hillywood
