@@ -1,15 +1,22 @@
-  install packages
+  install packages.
+  
+  pkg install figlet.
+  
+  clear
+  
+ figlet NESSESanon
 echo installing pkgs......#
 
 
 pkg install hollywood
 
-pkg install figlet 
+pkg install toilet
 
 clear
 
-figlet NESSES tm
-echo we are anonymous we are legends
-sleep5
+toilet -f mono12 -F gay "NESSES"
+echo we are anonymous we are legends.
 
-hillywood
+
+
+hollywood
